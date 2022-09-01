@@ -17,7 +17,7 @@
 
 pkgname=colorpicker-keshavbhatt
 pkgver=1.0.3
-pkgrel=1
+pkgrel=2
 pkgdesc="A powerful screen ColorPicker/Chooser application for Linux Desktop"
 arch=(
   "x86_64"
